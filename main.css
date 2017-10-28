@@ -1,0 +1,15 @@
+html {
+	margin: 0px;
+}
+
+body {
+	overflow: hidden;
+	width: 98%;
+	height: 98%;
+	background-color: red;
+}
+
+#board {
+	margin: auto;
+	background-color: yellow;
+}
